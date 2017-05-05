@@ -1,0 +1,46 @@
+.main{
+	padding-left:13%;	
+	padding-right:13%;	
+	padding-top:12%;
+	font-family:courier;
+	
+}
+table
+{
+	font-size: 26px;
+	font-family:courier;
+	
+}
+input
+{
+		font-size:26px;
+	font-family:courier;
+}
+legend
+{
+	font-size: 26px;
+}
+.img
+{
+	padding-top:90%;
+	font-size: 25px;
+	font-family:courier;
+}
+.login
+{
+	padding-top:10%;
+	padding-bottom:10%;
+		
+	
+}	
+.form1
+{
+	font-size:30px;	
+	font-family:courier;
+	
+}
+.option
+{
+	text-decoration:none;
+	color:black;
+}
